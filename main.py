@@ -15,7 +15,7 @@ import math
 # cap.set(4, 720)
 
 # video as feed
-cap = cv2.VideoCapture('video.mp4')
+cap = cv2.VideoCapture('URL')
 
 # =======================================================================================================
 # Creating YOLO model
